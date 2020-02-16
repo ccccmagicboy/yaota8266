@@ -62,3 +62,7 @@ Known issues
 
 yaota8266 is a work in progress and is not yet fully working per the
 spec above.
+
+cccc: mainly fellow the steps here: https://schinckel.net/2018/05/26/ota-firmware-updates-with-micropython-esp8266/
+
+
